@@ -1,4 +1,4 @@
-<?php require 'monitoring.php'; ?>
+<?php require 'monitoring2.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -61,7 +61,7 @@
     <footer class="footer">
         <div class="content has-text-centered">
             <p>
-                <a href="index.php" target="_blank">Ayoomall Status</a> - <a href="ab.php" target="_blank">Ayooberita Status</a>
+				<a href="index.php" target="_blank">Ayoomall Status</a> - <a href="ab.php" target="_blank">Ayooberita Status</a>
 				<br/>
 				Status page by <a href="https://www.linkedin.com/in/candrareza/" target="_blank">Gannes</a>.
             </p>
