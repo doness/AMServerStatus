@@ -35,18 +35,18 @@ body{
 }
 
 .error-wrapper .title {
-    font-size: 32px;
+    font-size: 42px;
     font-weight: 700;
     color: #000;
 }
 
 .error-wrapper .info {
-    font-size: 14px;
+    font-size: 24px;
 }
 
 .btn-custom{
 	color: #fff!important;
-	font-size: 14px;
+	font-size: 24px;
 	font-weight: 400;
 	outline: 0!important;
 	box-shadow: none!important;
@@ -55,8 +55,8 @@ body{
 .man-icon {
     background: url('http://blog.ayoomall.com/assets/img/trb.svg') center center no-repeat;
     display: inline-block;
-    height: 100px;
-    width: 118px;
+    height: 200px;
+    width: 218px;
     margin-bottom: 16px;
 }
 
