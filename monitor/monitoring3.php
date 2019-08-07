@@ -88,7 +88,7 @@ if ($monitor_status == 0) { // Monitor is paused:
         $time_since_downtime = $time_current - $time_downtime;
         $time_since_downtime = floor($time_since_downtime / 3600);
 
-        $monitor_info = 'It has been ' . $time_since_downtime . ' hours (' . $monitor_last_downtime . ') since any downtime';
+        $monitor_info = 'It has been ' . $time_since_downtime . ' hours (<span class="badge badge-warning">' . $monitor_last_downtime . '</span>) since any downtime';
 
     }
 
