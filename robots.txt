@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /monitoring.php
-Disallow: /monitoring2.php
-Disallow: /monitoring3.php
+Disallow: /monitor/monitoring.php
+Disallow: /monitor/monitoring2.php
+Disallow: /monitor/monitoring3.php
